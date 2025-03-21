@@ -1,0 +1,5 @@
+# ninja log v5
+1	334	7604583144093793	CMakeFiles/lab14_oop.dir/lab14_oop/x64/Debug/rcc/qrc_lab14_oop.cpp.obj	f408d19e9f42a6ae
+44	1112	7604583151982677	CMakeFiles/lab14_oop.dir/lab14_oop/Film.cpp.obj	58206d7e8ecd844b
+34	2934	7604583170175485	CMakeFiles/lab14_oop.dir/lab14_oop/CosFilme.cpp.obj	e052e1e84853613a
+27	3116	7604583172021179	CMakeFiles/lab14_oop.dir/lab14_oop/consola.cpp.obj	a1356d7141173002
